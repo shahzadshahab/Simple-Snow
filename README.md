@@ -1,3 +1,17 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-GPLv2-orange)
+![WordPress](https://img.shields.io/badge/WordPress-Compatible-success)
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-blueviolet)
+![Status](https://img.shields.io/badge/Snowing-Always-blue)
+
+---
+
+# ❄️ WP Simple Snow
+
+A lightweight, elegant snowfall effect for WordPress — with zero bloat and full light/dark background support.
+
+--
+
 ## ⚙️ Usage
 
 After activating the plugin, go to:
@@ -12,16 +26,6 @@ Choose your desired mode:
 | ☀️ **Light Background Mode** | High-contrast flakes with subtle icy-blue shadows for visibility. |
 
 Your selection instantly updates the snow appearance site-wide.
-
----
-
-## 🏷️ Badges
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-GPLv2-orange)
-![WordPress](https://img.shields.io/badge/WordPress-Compatible-success)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-blueviolet)
-![Status](https://img.shields.io/badge/Snowing-Always-blue)
 
 ---
 
