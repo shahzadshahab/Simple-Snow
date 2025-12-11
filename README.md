@@ -9,7 +9,7 @@ A lightweight, elegant snowfall effect for WordPress — with zero bloat and ful
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blueviolet)
 ![Status](https://img.shields.io/badge/Snowing-Always-blue)
 
---
+---
 
 ## ⚙️ Usage
 
