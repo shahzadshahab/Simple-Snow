@@ -11,7 +11,9 @@ A lightweight, elegant snowfall effect for WordPress — with zero bloat and ful
 
 ---
 
-## ⚙️ Usage
+## ⚙️ Installation
+
+**Upload** the Simple Snow plugin to your WordPress site and **Activate** it - BOOM!! Snow fall appears on your entire site.
 
 After activating the plugin, go to:
 
