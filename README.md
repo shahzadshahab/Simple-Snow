@@ -57,6 +57,15 @@ Your selection instantly updates the snow appearance site-wide.
 
 ---
 
+## 👨‍💻 Author
+
+**Shahzad Shahab**   
+🌐 Website: [https://creatingbee.com](https://creatingbee.com)   
+🐙 GitHub: [https://github.com/shahzadshahab](https://github.com/shahzadshahab)   
+🐙 WordPress: [https://github.com/shahzadshahab](https://profiles.wordpress.org/designsbyshahzad/)   
+
+---
+
 ## 🔧 Technical Details
 
 ### Rendering
@@ -103,22 +112,6 @@ You may:
 - Open issues  
 - Suggest features  
 - Improve documentation  
-
----
-
-## 👨‍💻 Author
-
-**Shahzad Shahab**  
-🌐 Website: [https://creatingbee.com](https://creatingbee.com)
-🐙 GitHub: [https://github.com/shahzadshahab](https://github.com/shahzadshahab)
-🐙 WordPress: [https://github.com/shahzadshahab](https://profiles.wordpress.org/designsbyshahzad/)
-
----
-
-## 📄 License
-
-**GPLv2 or later**  
-Compatible with WordPress core licensing.
 
 ---
 
