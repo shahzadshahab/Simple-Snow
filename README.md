@@ -1,14 +1,13 @@
+# ❄️ WP Simple Snow
+
+A lightweight, elegant snowfall effect for WordPress — with zero bloat and full light/dark background support.
+
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-GPLv2-orange)
 ![WordPress](https://img.shields.io/badge/WordPress-Compatible-success)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blueviolet)
 ![Status](https://img.shields.io/badge/Snowing-Always-blue)
-
----
-
-# ❄️ WP Simple Snow
-
-A lightweight, elegant snowfall effect for WordPress — with zero bloat and full light/dark background support.
 
 --
 
