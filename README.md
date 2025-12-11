@@ -9,6 +9,9 @@ A lightweight, elegant snowfall effect for WordPress — with zero bloat and ful
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blueviolet)
 ![Status](https://img.shields.io/badge/Snowing-Always-blue)
 
+
+![Simple Snow v1.0 - Screenshot](https://github.com/shahzadshahab/Simple-Snow/blob/main/assets/screenshot.png)
+
 ---
 
 ## ⚙️ Installation
